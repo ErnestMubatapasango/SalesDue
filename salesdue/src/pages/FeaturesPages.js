@@ -66,7 +66,7 @@ function FeaturesPages() {
   return (
     <>
         <Navbar />
-        <div id='features' className='relative text-center '>
+        <div id='featuress' className='relative text-center '>
             <div className='bg-gray-400/80 backdrop-brightness-100 w-full h-full pt-20'>
                 <h1 className='text-3xl pt-20 font-medium md:text-4xl text-white '>Intuitive retail software</h1>
                 <p className='px-20 mx-auto text-center text-white'>

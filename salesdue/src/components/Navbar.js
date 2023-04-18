@@ -24,7 +24,7 @@ function Navbar() {
         <nav className="flex-row items-center justify-center hidden w-auto space-x-4 font-semibold md:flex lg:space-x-8">
           <a href="/invoice-generator" className="hover:opacity-70">Invoice Generator</a>
           <a href="/features" className="hover:opacity-70">Features</a>
-          <a href="#pricing" className="hover:opacity-70">Pricing</a>
+          <a href="/pricing" className="hover:opacity-70">Pricing</a>
           <a href="https://portal.salesdue.com/login" className="hover:opacity-70">Login</a>
           <a href="https://portal.salesdue.com/register" className="inline-block px-5 py-3 text-sm font-semibold bg-green-800 rounded-lg text-green-50">
             Start Free Trial

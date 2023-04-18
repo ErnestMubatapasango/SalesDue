@@ -88,7 +88,7 @@ function Takeaway() {
             </div>
     </div>
 
-    <div className='px-20 py-20'>
+    <div className='px-20 py-20' style={{ backgroundImage: "linear-gradient(170deg, #fff 63%, #dcfce7  0, #dcfce7 123% )"}}>
         <h1 className='text-center text-2xl font-medium md:text-3xl pb-3'>You are in good company</h1>
         <hr className='w-1/6 mx-auto'/>
         <div className="grid max-w-screen-xl grid-cols-1 col-gap-6 px-6 mx-auto mb-6 space-y-5 lg:px-8 xl:px-4 md:pt-20 lg:pt-12 sm:grid-cols-2 sm:space-y-3 lg:grid-cols-3 xl:grid-cols-5 xl:gap-12 lg:mb-16">
