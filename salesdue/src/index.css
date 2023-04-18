@@ -49,3 +49,12 @@ code {
   height: 70vh;
   z-index: 100;
 }
+
+#features{
+  background-image: url('images/features_collaboration.png');
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+  z-index: 100;
+}

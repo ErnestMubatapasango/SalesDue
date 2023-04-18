@@ -66,18 +66,23 @@ function FeaturesPages() {
   return (
     <>
         <Navbar />
-        <section className='container flex flex-col justify-center pt-20 mx-auto'>
-            {/* <img src='images/features.png' alt='' className='w-full h-1/3 overlay-green-100' /> */}
-            <div className=' flex flex-col justify-center items-center text-center space-y-4 md:px-20'>
-                <h1 className='text-2xl font-bold md:text-3xl xl:text-4xl'>Intuitive retail software</h1>
-                <p className='px-20'>
-                    Quick to setup, easy to use and feature-rich,
-                    SalesDue Point of Sale is <br/> your all-in-one retail management software solution.
+        <div id='features' className='relative text-center '>
+            <div className='bg-gray-400/80 backdrop-brightness-100 w-full h-full pt-20'>
+                <h1 className='text-3xl pt-20 font-medium md:text-4xl text-white '>Intuitive retail software</h1>
+                <p className='px-20 mx-auto text-center text-white'>
+                Quick to setup, easy to use and feature-rich,
+                SalesDue Point of Sale is <br/> your all-in-one retail management software solution.
                 </p>
             </div>
+        </div>
+        <section className='container flex flex-col justify-center pt-20 mx-auto'>
+            
+           
 
-            <div className='flex flex-col md:flex-row w-full py-10  px-20 space-y-20'>
-                <h1 className='font-bold text-2xl w-full text-center md:text-left md:w-1/4 md:text-3xl text-gray-400'>Point of Sale</h1>
+            <div className='flex flex-col md:flex-row w-full -py-10  px-20 space-y-20'>
+                <h1 className='font-bold text-2xl w-full text-center md:text-left md:w-1/4 md:text-3xl text-gray-400'>
+                    Point of Sale
+                </h1>
                 <div className='flex w-full md:w-3/4 flex-wrap space-y-9'>
                     {posFeatures}
                     <hr className='text-gray-400 h-2 w-full' />
