@@ -91,7 +91,7 @@ function CoffeeShop() {
                 <img src='images/stores.svg' alt='' className='w-full md:w-1/2 pt-5 md:pt-0'/>
             </div> 
         </section>
-        <div className='bg-gray-300 px-20 py-20 space-y-4 mx-auto'>
+        <div className='bg-gray-50 px-20 py-20 space-y-4 mx-auto'>
                 <h1 className=' text-center text-2xl md:text-3xl font-medium'>Getting started with SalesDue is very easy</h1>
                 <h3 className='text-center'>With powerful data import features, rich support articles and <br/>24/7 support, SalesDue makes it easier.</h3>
                 <hr className='w-1/6 stroke-2 mx-auto'/>

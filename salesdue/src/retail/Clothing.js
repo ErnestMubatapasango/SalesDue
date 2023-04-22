@@ -27,7 +27,7 @@ function clothingPos() {
     <>
         <Navbar  />
 
-        <div id='clothing' className='relative text-center'>
+        <div id='clothing' className='relative text-center '>
             <div className='bg-gray-400/80 backdrop-brightness-100 w-full h-full pt-20' >
                <h1 className='text-3xl pt-20 font-medium md:text-4xl text-white '>
                Clothing Store POS

@@ -21,7 +21,7 @@ code {
   background-repeat: no-repeat;
   background-size: cover;
   height: 70vh;
-  z-index: 100;
+
 }
 
 #kiosk{
@@ -30,7 +30,7 @@ code {
   background-repeat: no-repeat;
   background-size: cover;
   height: 70vh;
-  z-index: 100;
+ 
 }
 
 #takeaway{
@@ -39,7 +39,7 @@ code {
   background-repeat: no-repeat;
   background-size: cover;
   height: 70vh;
-  z-index: 100;
+
 }
 #clothing{
   background-image: url('images/clothing.png');
@@ -47,7 +47,7 @@ code {
   background-repeat: no-repeat;
   background-size: cover;
   height: 70vh;
-  z-index: 100;
+ 
 }
 
 #featuress{
@@ -56,5 +56,5 @@ code {
   background-repeat: no-repeat;
   background-size: cover;
   height: 70vh;
-  z-index: 100;
+
 }
