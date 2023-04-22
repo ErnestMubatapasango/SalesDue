@@ -30,7 +30,7 @@ function Pricing() {
               <li>Bill in any Currency</li>
               <li>2 Customers</li>
             </ul>
-            <a href="#" className="inline-block px-5 py-3 mt-8 text-sm font-semibold bg-green-800 rounded-lg text-green-50">Get started</a>
+            <a href="https://portal.salesdue.com/register" className="inline-block px-5 py-3 mt-8 text-sm font-semibold bg-green-800 rounded-lg text-green-50">Get started</a>
           </div>
         </div>
         <div className="relative z-20 items-center col-span-3 gap-4 p-6 mb-6 text-center bg-white rounded-lg md:shadow-xl lg:p-8 md:pb-24 lg:pb-24 md:col-span-1 md:mb-0 md:-mt-6">
@@ -51,7 +51,7 @@ function Pricing() {
               <li>Bill in any Currency</li>
               <li>Financial Reports</li>
             </ul>
-            <a href="#" className="inline-block px-5 py-3 mt-8 text-sm font-semibold bg-green-800 rounded-lg text-green-50">Get started</a>
+            <a href="https://portal.salesdue.com/register" className="inline-block px-5 py-3 mt-8 text-sm font-semibold bg-green-800 rounded-lg text-green-50">Get started</a>
           </div>
         </div>
         <div className="items-center col-span-3 gap-4 p-6 mb-6 text-center bg-white rounded-r-lg shadow lg:p-8 md:col-span-1 md:mb-0">
@@ -71,7 +71,7 @@ function Pricing() {
               <li>Use your own domain</li>
               <li>API access</li>
             </ul>
-            <a href="#" className="inline-block px-5 py-3 mt-8 text-sm font-semibold bg-green-800 rounded-lg text-green-50">Get started</a>
+            <a href="https://portal.salesdue.com/register" className="inline-block px-5 py-3 mt-8 text-sm font-semibold bg-green-800 rounded-lg text-green-50">Get started</a>
           </div>
         </div>
       </div>
