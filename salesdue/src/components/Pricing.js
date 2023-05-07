@@ -63,7 +63,7 @@ function Pricing() {
               <li>Unlimited invoices </li>
               <li>Unlimited quotes</li>
               <li>Unimited Customers</li>
-              <li>Payment gatewats</li>
+              <li>Payment gateways</li>
               <li>SMS Communication</li>
               <li>Use your own domain</li>
               <li>API access</li>
